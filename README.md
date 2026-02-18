@@ -4,6 +4,8 @@
 
 🔗 Live Demo: https://fin-flow-ai.netlify.app/
 
+🔗 Video Demo: https://drive.google.com/file/d/1QfU9zayAz9Tf3G7yApyGTO38FyO9qdWj/view?usp=drive_link
+
 ---
 
 ##  Overview
